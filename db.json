@@ -1,0 +1,44 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Complete task 1",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Finish project proposal",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "Buy grocerieLL",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "title": "Call mom",
+      "completed": false
+    },
+    {
+      "id": 5,
+      "title": "Read book",
+      "completed": true
+    },
+    {
+      "id": "as",
+      "title": "arg",
+      "completed": false
+    },
+    {
+      "id": 7,
+      "title": "hi",
+      "completed": false
+    },
+    {
+      "id": 8,
+      "title": "",
+      "completed": false
+    }
+  ]
+}
